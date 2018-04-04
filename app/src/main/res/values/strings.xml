@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiUsingDagger2</string>
+    <string name="splash_without_di">SPLASH WITHOUT DI</string>
+    <string name="text_splash_with_di">SPLASH WITH DI</string>
+</resources>
